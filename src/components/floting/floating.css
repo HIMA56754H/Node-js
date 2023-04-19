@@ -1,0 +1,7 @@
+.floating{
+    margin-right: -33%;
+    transform: scale(0.96);
+    justify-content: space-around;
+    display: flex;
+    background: white;
+}
